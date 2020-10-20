@@ -1,2 +1,2 @@
-# Banking-transfer-system
+# banking-transfer-system
 tranfer app
